@@ -11,7 +11,7 @@ Install Pygame:
 pip install pygame
 
 Clone the Repository:
-git clone https://github.com/Vinay-tr-17/snake-game-python.git
+git clone https://github.com/Vinay-tr-17/Snake_game_x7
 cd snake-game-python
 
 Run the Game:
